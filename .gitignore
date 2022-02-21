@@ -1,0 +1,13 @@
+**/Debug
+**/Release
+**/**/Debug
+**/**/Release
+*.c~
+*.h~
+*.hci
+*.cci
+*.docx
+*.prj
+*.cbi
+*.cof
+*.fct
